@@ -1,0 +1,55 @@
+AMDANI sample.h
+
+STARTMAIN
+    PURNO a;
+    PURNO a = 5;
+    PURNO a = 5 , b,c,d,e;
+    PURNO a = 5, b=9,c,d;
+    VOGNO a = 10.8;
+    SOBDO message = "Hello, World!";
+    PURNO b = 10;
+    SHARI::PURNO f<10> = {1, 2, 3, 4, 5};
+    PURNO sum = a JOG b;
+    PURNO i;
+    LIKHO i , j , k;
+    sum BARBEI;
+    
+    JODI sum HOCCHEBORO 10; {
+        DEKHAW "Sum is greater than 10";
+    }
+    JODINA sum HOCCHEBORO 5; {
+        DEKHAW "Sum is greater than 5"
+    }
+    NAHOLE {
+        DEKHAW "Sum is less than 5";
+    }
+
+    GHURO i = 0; i HOCCHECHOTO 5; i = i JOG 1; {
+        DEKHAW "Iteration: " JOG i;
+    }
+
+    SOBDO multiline = "
+        This is a multi-line string.
+        It can span multiple lines.
+    ";
+
+    NOTE This is a single-line comment
+
+    NOTE*
+        This is a multi-line comment.
+        It can span multiple lines.
+    *NOTE
+
+    SHARI::SOBDO names<5> = {"Alice", "Bob", "Charlie", "David", "Eva"};
+    PURNO index = 2;
+    DEKHAW "Name at index " JOG index JOG " is " JOG names[index];
+
+    PURNO index = 3;
+    DEKHAW "Now, Name at index " JOG index JOG " is " JOG names[index];
+
+    JOTOKHON index HOCCHEBORO 0 ; {
+        DEKHAW "Index is " JOG index;
+        index = index JOG 1;
+    }
+
+ENDMAIN
