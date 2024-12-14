@@ -1,0 +1,110 @@
+Header LIbrary Declared Here
+Header Library Declared Here
+This is a COMMENT
+This Function Name With  Parameter 
+
+(s) Variable Not DEclared
+Factorial  of 5 is 120
+13 is a prime number
+
+===> Function Ends Successfully
+
+This Function Name With  Parameter 
+(ans) Variable Declared
+ Tan value of 45 is 0.9992
+
+Value of the Variable (ans)= 61	
+
+===> Function Ends Successfully
+
+This Function Name Without  Parameter 
+(a) Variable Declared
+(j) Variable Declared
+
+===>The Value Of IF-ELSE Condition is:::  14 (a) variable  , (j) variable   was displayed
+Factorial  of 5 is 120
+
+===> Function Ends Successfully
+
+This is a COMMENT
+(tii) Variable Declared
+(i) Variable Declared
+(y) Variable Declared
+(bc) Variable Declared
+
+ERROR:Multiple Declaration Of (a) 
+
+Value of the Variable (a)= 20	
+
+Value of the Variable (i)= 20	
+
+Value of the Variable (j)= 1	
+
+(gh) Variable Not DEclared
+ Sine value of 30 is 0.49977
+
+Value of the Variable (bc)= 61	
+
+Value of the Variable (lab)= 10	
+ $This   $Is   $Demo   was displayed
+ $VAlue   $assigned   (a) variable  was displayed
+(ss) Variable Declared
+
+Value of the Variable (ss)= DIPA	
+Value of the Variable (c)= 3	
+
+Value of the Variable (d)= 1	
+ (bc) variable  , (y) variable   was read from console 
+ Factorial  of 9 is 362880
+G.C.D of 8 and 12 is 4
+Value of the Variable (y)= 61	
+ (y) variable  was displayed
+(q) Variable Declared
+
+Value of the Variable (y)= 20	
+
+===>The Value Of IF-ELSE Condition is:::  200
+==>For Loop Works SUccessfully
+
+FOR LOOP at Value 10 
+FOR LOOP at Value 11 
+FOR LOOP at Value 12 
+==>For Loop Works SUccessfully
+
+FOR LOOP at Value 10 
+FOR LOOP at Value 11 
+FOR LOOP at Value 12 
+FOR LOOP at Value 13 
+FOR LOOP at Value 14 
+FOR LOOP at Value 15 
+FOR LOOP at Value 16 
+FOR LOOP at Value 17 
+FOR LOOP at Value 18 
+FOR LOOP at Value 19 
+FOR LOOP at Value 20  (a) variable  , (y) variable   was displayed
+
+(a) parameter 
+===>Function is Called Here 
+
+Value of the Variable (y)= 209	
+
+==>While Loop Works SUccessfully
+
+==>While Loop Works SUccessfully
+
+Value of the Variable (a)= 18	
+
+Value of the Variable (j)= 2	
+  Value In SWITCH CASE
+ Cos value of 60 is 0.50046
+
+Value of the Variable (a)= 0	
+
+Value of the Variable (j)= 3	
+  Value In SWITCH CASE
+
+Value of the Variable (a)= -3	
+==>Switch Ends Here
+===>The Value Of IF-ELSE Condition is:::  63
+===>Function is Called Here 
+Compilation Completed Successfully!!

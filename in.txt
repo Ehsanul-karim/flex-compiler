@@ -1,0 +1,137 @@
+<stdio.h>
+<math.h>
+
+comsec #Comment #is #done
+
+
+float kapca(int s)
+{
+    	s=5!
+	factorial(5)!
+	prime(13)!
+	rtn 1!
+}
+
+int func(int a, int b)
+{
+    int ans!
+    ans=tan(45)!
+rtn ans!
+}
+
+int func2()
+{
+int a,j!
+    if(a ge 100  and  j lt 9 or j gt 1)
+    {
+        a add 9
+    }
+show<a,j>!
+factorial(a)!
+rtn a!
+}
+
+
+
+int main()
+{
+
+		
+comsec #This #Is #Main #Body
+    int tii,i,y!
+    int bc!
+    int a!
+    a=20!
+    i=a!
+    j=1!
+    gh=2!
+    bc=sin(30)!
+
+    int lab =10!
+    show<$This $Is $Demo>!
+    show<$VAlue $assigned a>!
+
+    char ss!
+    ss (DIPA)!
+
+    int c=3,d=1!
+    read (bc , y)! 
+    
+    
+
+    factorial(9)!
+
+
+    y=gcd (8,12)!
+
+    show<y>!
+    
+   float q!
+
+    for i : 10 to 20
+	{
+   	 for j : 10 to 12
+    	{
+    	 y=20!
+    	 if(a eq 20)
+         {
+           	y mul 10	
+	   }
+   	 }
+	}
+
+   show<a,y> !
+
+  funcall  kapca(a)!
+
+    while(y ge 3)
+        do
+        {
+   	   while(y nq 88)
+       		 do
+	          {
+            		y=9 add a mul 10!
+        	}
+        }
+switch :
+{
+case (a gt 0) ~ a = a sub j mul 2!
+		j=j++!
+
+case (a lt 90) ~ a = 10 sub cos(60)!
+		j=j++!
+
+def ~ a = a sub j!
+}
+
+
+
+   if(i lt 5)
+    {
+        if(j gt 5)
+        	{
+           	 5^2
+        	}
+    }
+    elif(a ge 5)
+    {
+    	if(a ge 10)
+	{
+        	ans mul 9
+    	}
+    	else
+    	{
+        	 a mul 9 div 2
+   	 }
+
+    }
+    else
+    {
+        ans add 2
+    }
+
+funcall  func2() !
+
+}
+
+
